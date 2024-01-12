@@ -1,0 +1,9 @@
+
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:width="50dp"
+        android:height="50dp"/>
+    <solid android:color="#CCCCCC"/> <!-- Placeholder background color -->
+    <corners android:radius="8dp"/> <!-- Adjust the radius as needed -->
+</shape>
+
